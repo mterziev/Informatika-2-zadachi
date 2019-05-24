@@ -1,0 +1,7 @@
+C:\Users\marti\Documents\Zadacha5\Zadacha5\bin\Debug\Zadacha5.exe.config
+C:\Users\marti\Documents\Zadacha5\Zadacha5\bin\Debug\Zadacha5.exe
+C:\Users\marti\Documents\Zadacha5\Zadacha5\bin\Debug\Zadacha5.pdb
+C:\Users\marti\Documents\Zadacha5\Zadacha5\obj\Debug\Zadacha5.csprojAssemblyReference.cache
+C:\Users\marti\Documents\Zadacha5\Zadacha5\obj\Debug\Zadacha5.csproj.CoreCompileInputs.cache
+C:\Users\marti\Documents\Zadacha5\Zadacha5\obj\Debug\Zadacha5.exe
+C:\Users\marti\Documents\Zadacha5\Zadacha5\obj\Debug\Zadacha5.pdb
