@@ -1,0 +1,7 @@
+C:\Users\marti\Documents\Mnogougulnik\Mnogougulnik\bin\Debug\Mnogougulnik.exe.config
+C:\Users\marti\Documents\Mnogougulnik\Mnogougulnik\bin\Debug\Mnogougulnik.exe
+C:\Users\marti\Documents\Mnogougulnik\Mnogougulnik\bin\Debug\Mnogougulnik.pdb
+C:\Users\marti\Documents\Mnogougulnik\Mnogougulnik\obj\Debug\Mnogougulnik.csprojAssemblyReference.cache
+C:\Users\marti\Documents\Mnogougulnik\Mnogougulnik\obj\Debug\Mnogougulnik.csproj.CoreCompileInputs.cache
+C:\Users\marti\Documents\Mnogougulnik\Mnogougulnik\obj\Debug\Mnogougulnik.exe
+C:\Users\marti\Documents\Mnogougulnik\Mnogougulnik\obj\Debug\Mnogougulnik.pdb
