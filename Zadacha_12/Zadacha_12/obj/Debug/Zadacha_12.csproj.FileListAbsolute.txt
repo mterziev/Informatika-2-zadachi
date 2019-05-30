@@ -1,0 +1,7 @@
+C:\Users\marti\Documents\Zadacha_12\Zadacha_12\bin\Debug\Zadacha_12.exe.config
+C:\Users\marti\Documents\Zadacha_12\Zadacha_12\bin\Debug\Zadacha_12.exe
+C:\Users\marti\Documents\Zadacha_12\Zadacha_12\bin\Debug\Zadacha_12.pdb
+C:\Users\marti\Documents\Zadacha_12\Zadacha_12\obj\Debug\Zadacha_12.csprojAssemblyReference.cache
+C:\Users\marti\Documents\Zadacha_12\Zadacha_12\obj\Debug\Zadacha_12.csproj.CoreCompileInputs.cache
+C:\Users\marti\Documents\Zadacha_12\Zadacha_12\obj\Debug\Zadacha_12.exe
+C:\Users\marti\Documents\Zadacha_12\Zadacha_12\obj\Debug\Zadacha_12.pdb
